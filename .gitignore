@@ -23,4 +23,5 @@ dist/
 
 # environment variables
 .env
+pocket-ic
 pocket-ic.gz
