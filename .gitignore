@@ -25,3 +25,4 @@ dist/
 .env
 pocket-ic
 pocket-ic.gz
+.mops
